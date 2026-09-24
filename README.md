@@ -8,12 +8,14 @@ I'm a computer science student at the University of Maryland, College Park (clas
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [daily-briefing](https://github.com/mshayev92/daily-briefing) | A morning pipeline that turns my coursework, email, calendar and campus events into one prioritized page, with LLM cost logging and a per-run budget | Python, FastAPI, SQLite, Google APIs, systemd |
-| [canvas-scraper](https://github.com/mshayev92/canvas-scraper) | A read-only scraper for UMD Canvas with no API token, SSO/Duo login, an incremental change log, a CLI and trigger-driven automations | Python, Playwright, SQLite |
+| [daily-briefing](https://github.com/mshayev92/daily-briefing-demo) | A morning pipeline that turns my coursework, email, calendar and campus events into one prioritized page, with LLM cost logging and a per-run budget | Python, FastAPI, SQLite, Google APIs, systemd |
+| [canvas-scraper](https://github.com/mshayev92/canvas-scraper-demo) | A read-only scraper for UMD Canvas with no API token, SSO/Duo login, an incremental change log, a CLI and trigger-driven automations | Python, Playwright, SQLite |
 | [njwg-encampment](https://github.com/mshayev92/njwg-encampment) | A staff PWA for the Civil Air Patrol NJ Wing encampment, with server-side auth in a Cloudflare Worker over Google Sheets | JavaScript, Cloudflare Workers, Web Push |
-| [9AT-Intelligence](https://mshayev92.github.io/9AT-Intelligence/) | An internship project: a business-development database of 9,021 pension plan allocators, built from DOL Form 5500 filings | Data engineering, fuzzy matching |
+| [pension-allocator-demo](https://mshayev92.github.io/pension-allocator-demo/) | An internship project: a business-development database of pension plan allocators, built from DOL Form 5500 filings (the demo uses synthetic data) | Data engineering, fuzzy matching |
 | [spaatz-aerospace](https://mshayev92.github.io/spaatz-aerospace/) | An offline flashcard PWA for aerospace study | HTML/CSS/JS, Service Worker |
 | [training-log](https://mshayev92.github.io/training-log/) | An offline-first training log for a 10-week strength program | Vite, Workbox |
+
+The Daily Briefing, Canvas scraper and allocator links go to public snapshots. Personal details in them are replaced with placeholders.
 
 I also run a home server with self-healing upkeep (`syscheck` + `syscare`) and an MCP bridge that lets AI agents operate my Mac. Both are private, and I can share them on request.
 
