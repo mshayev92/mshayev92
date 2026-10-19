@@ -1,6 +1,6 @@
 ### Hi, I'm Michael Shayevich
 
-I'm a computer science student at the University of Maryland, College Park (class of 2030). I build systems that run without me watching them: web scrapers, data pipelines, self-healing servers, and offline-first apps that people use in the field.
+I'm a computer science student at the University of Maryland, College Park (class of 2030). I build systems that run without me watching them: web scrapers, data pipelines, self-healing servers, and offline-first apps for iPhone, Apple Watch and the web.
 
 **Portfolio:** [mshayev92.github.io](https://mshayev92.github.io)
 
@@ -17,7 +17,7 @@ I'm a computer science student at the University of Maryland, College Park (clas
 
 The Daily Briefing, Canvas scraper and allocator links go to public snapshots. Personal details in them are replaced with placeholders.
 
-I also run a home server with self-healing upkeep (`syscheck` + `syscare`) and an MCP bridge that lets AI agents operate my Mac. Both are private, and I can share them on request.
+I also build **Setpoint**, a strength-training app for iPhone, Apple Watch, Mac and web that syncs offline-first through a server I host, and **Remote Claude Quick Entry**, Mac and iPhone apps that drive the AI coding agents on that server. The server also runs self-healing upkeep (`syscheck` + `syscare`) and an MCP bridge that lets AI agents operate my Mac. These are private, and I can share them on request.
 
 Outside code: freelance web designer since 2022 (127+ client projects), and Cadet Lt Col in Civil Air Patrol.
 
