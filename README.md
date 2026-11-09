@@ -15,7 +15,7 @@ I'm a computer science student at the University of Maryland, College Park (clas
 | [spaatz-aerospace](https://mshayev92.github.io/spaatz-aerospace/) | An offline flashcard PWA for aerospace study | HTML/CSS/JS, Service Worker |
 | [training-log](https://mshayev92.github.io/training-log/) | An offline-first training log for a 10-week strength program | Vite, Workbox |
 
-The Daily Briefing, Canvas scraper and allocator links go to public snapshots. Personal details in them are replaced with placeholders.
+The Briefing, Canvas scraper and allocator links go to public snapshots. Personal details in them are replaced with placeholders.
 
 I also build **Setpoint**, a strength-training app for iPhone, Apple Watch, Mac and web that syncs offline-first through a server I host, and **Remote Claude Quick Entry**, Mac and iPhone apps that drive the AI coding agents on that server. The server also runs self-healing upkeep (`syscheck` + `syscare`) and an MCP bridge that lets AI agents operate my Mac. These are private, and I can share them on request.
 
